@@ -1,4 +1,4 @@
-#include"stack4.c"
+#include"StaticStack.c"
 int main()
 {
   int choice;
